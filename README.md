@@ -29,11 +29,13 @@ A SwiftUI app with three main tabs: Feed, Camera, and Camera Roll.
    - Combine for reactive programming
    - Environment objects for shared state
 
+## Snapshots
+
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/e976efb8-1b0e-4a42-b303-bbb8c805decb)" alt="Feed Tab" width="200"/>
-  <img src="![image](https://github.com/user-attachments/assets/bd84f5ba-4b65-4ab8-ab8b-fe1958c110b8)" alt="Error scenario" width="200"/>
-  <img src="![image](https://github.com/user-attachments/assets/98a79c88-d471-4d7c-9fd2-a1866e2b9a53)" alt="Camera Tab" width="200"/>
-  <img src="![image](https://github.com/user-attachments/assets/568172a2-54fe-49d1-91e2-64490ab202f7)" alt="Camera Roll Tab" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e976efb8-1b0e-4a42-b303-bbb8c805decb" alt="Feed Tab" width="200"/>
+  <img src="https://github.com/user-attachments/assets/bd84f5ba-4b65-4ab8-ab8b-fe1958c110b8" alt="Error scenario" width="200"/>
+  <img src="https://github.com/user-attachments/assets/98a79c88-d471-4d7c-9fd2-a1866e2b9a53" alt="Camera Tab" width="200"/>
+  <img src="https://github.com/user-attachments/assets/568172a2-54fe-49d1-91e2-64490ab202f7" alt="Camera Roll Tab" width="200"/>
 </p>
 
 ## Tradeoffs
