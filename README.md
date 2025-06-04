@@ -26,7 +26,7 @@ To run this app, follow these steps after cloning:
 </dict>
 </plist>
 ```
-3. **Replace `YOUR_API_KEY` with your actual API key from pexels.
+3. **Replace `YOUR_API_KEY` with your actual API key from pexels.**
 
 ## Architecture
 
