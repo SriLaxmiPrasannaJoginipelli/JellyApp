@@ -8,6 +8,26 @@ A SwiftUI app with three main tabs: Feed, Camera, and Camera Roll.
 - **Camera Tab**: Dual POV camera recording with front and back cameras
 - **Camera Roll Tab**: Gallery of recorded videos
 
+## API Key Setup
+
+To run this app, follow these steps after cloning:
+
+1. **Create a file named `Secrets.plist` in the root of the Xcode project.**
+
+2. **Copy and paste the following XML content:**
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PEXELS_API_KEY</key>
+    <string>YOUR_API_KEY</string>
+</dict>
+</plist>
+```
+3. **Replace `YOUR_API_KEY` with your actual API key from pexels.
+
 ## Architecture
 
 - **MVVM Pattern**: Clean separation of concerns
